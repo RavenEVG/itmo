@@ -1,0 +1,11 @@
+display_name,num_sequences,num_organisms,url
+NONCODE,234669,7,http://www.noncode.org/
+VEGA,0,0,http://vega.sanger.ac.uk/
+GENCODE,47677,2,http://gencodegenes.org/
+ENA,12086180,814855,https://www.ebi.ac.uk/ena/browser/
+TAIR,4406,1,http://www.arabidopsis.org/
+RefSeq,120355,22524,http://www.ncbi.nlm.nih.gov/refseq/
+GeneCards,425357,1,https://www.genecards.org/
+RDP,4779,2487,http://rdp.cme.msu.edu/
+LNCipedia,126876,1,http://www.lncipedia.org/
+WormBase,25550,1,http://www.wormbase.org/
